@@ -11,5 +11,5 @@
 - Handles 50+ common phrases
 
  📫 Let's Connect
-LinkedIn: [Your Profile](link)
-Email: your@email.com" > README.md
+LinkedIn: (https://www.linkedin.com/in/ramadan-najib-abdullahi-2b149727b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+Email: ramadannajivmil9@gmail.com> README.md
